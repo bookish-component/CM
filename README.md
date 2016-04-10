@@ -71,7 +71,7 @@ public class Configuration {
 ```
 #### Kick off!!!
 ```java
-import sse.tongji.bookish-meme.cm
+import conf.Config;
 
 Config config = new Config();
 config.readFile("config/conf.json");
