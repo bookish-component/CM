@@ -14,7 +14,7 @@
 
 File -> project structure -> Libraries
 
-![import jar](https://github.com/bookish-component/CM/tree/master/img/importjar.png)
+![import jar](https://raw.githubusercontent.com/bookish-component/CM/master/img/importjar.png)
 
 ## Usage
 - First, new a Config object,
