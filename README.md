@@ -10,6 +10,11 @@
 - 可以根据键读值
 - 支持链式调用，可以读取嵌套配置
 
+## Requirement
+  - jdk >= 1.5
+  - 配置文件格式:json
+  
+
 ## Installation
 
 File -> project structure -> Libraries
