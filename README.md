@@ -19,7 +19,7 @@
 
 File -> project structure -> Libraries
 
-![import jar](https://raw.githubusercontent.com/bookish-component/CM/master/img/importjar.png)
+<img src = "https://raw.githubusercontent.com/bookish-component/CM/master/img/importjar.png" height=450>
 
 ## Usage
 - First, new a Config object,
